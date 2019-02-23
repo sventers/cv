@@ -1,7 +1,19 @@
-- name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+- name: waterdrops
+  link: github.com/sventers
+  github: sventers/waterdrops
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    A set of visualization tools for exploring idea evolution with in wikipedia
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    This project was created to practice with javascript libraries {three.js || d3.js} and learn to think about interactive data visualization design. 
+
+    It's main use is to explore associated topics and understand evolution of idea within the context of the humans who put them forward. The original focus was history of science and history of philosophy.
+
+- name: World Human Society
+  link: github.com/sventers
+  github: worldhumansociety.com
+  quote: >
+    Seach tool for the next finding place to stay during long time traveling.
+  description: |
+    During constant traveling the last two years, I realized the need for a better way to search for where to stay.  If you stay at the right places, the backpacking community has wonderful tips on what to do.
+
+    Implemented machine learning algorithm to sort hostels by similarity, and users sort by inputting their favorite hostels. Feedback from user searches goes into lodging similarity matrix. Searches is based on ranking within a subset of geographically available travel options tomorrow.
