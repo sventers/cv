@@ -1,34 +1,35 @@
 # Site
 repository: sproogen/resume-theme
-# favicon: images/favicon.ico
+favicon: images/favicon.ico
 
 # Personal info
 name: Sam V
-title: 
+title: A bit of this and that
 email: did a (@) gmail .com
 website: www.github.com/sventers/cv
 
 # Social links
-twitter_username: svent
+twitter_username: sam59490893
 github_username:  sventers
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: yy
-# pinterest_username: jekyll
-youtube_username: samv
-# googleplus_username: +jekyll
+# dribbble_username: 
+# facebook_username: 
+# flickr_username: 
+instagram_username: samv_sammy
+#linkedin_username: 
+# pinterest_username: 
+#youtube_username: 
+# googleplus_username: +
 
 # About Section
 # about_title: About Me
-about_profile_image: images/doesntexist.jpg
+about_profile_image: images/IMG_20180904_181534-01.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, this is attempt 1 to reformat and publish a decent resume, during and approaching after taking a two and a half year sabbatical to self educate and build while travelling the world.
+  Hi, I'm Sam. At the moment, I'm somewhere in South America alternating travelling and working on two personal projects. I'm interested in how concepts change over time, how persons build unique perceptive frameworks of the world by categorization, and methods for resolving information gluttony.
 
-  I am most skilled in: <mark>making plans</mark> and <mark>slow travel</mark>
+  At the moment, I'm looking for a junior role in quantiative social research projects, and my top job criteria is good mentorship/leadership. Feel free to say hello over email.
 
-# Projects Section
+  *Some of the information on this page is prospective*
+# Projects Section 
 # projects_title: Projects
 
 # Experience Section
@@ -40,14 +41,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  I enjoy music, culture, sports, and life stories
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
@@ -57,4 +54,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+# - jekyll-seo-tag

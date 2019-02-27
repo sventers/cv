@@ -1,19 +1,19 @@
 - name: waterdrops
-  link: github.com/sventers
+  link: github.com/sventers/waterdrops
   github: sventers/waterdrops
   quote: >
-    A set of visualization tools for exploring idea evolution with in wikipedia
+    A set of visualization tools for exploring semantic similarity across wikipedia articles
   description: | # this will include new lines to allow paragraphs
-    This project was created to practice with javascript libraries {three.js || d3.js} and learn to think about interactive data visualization design. 
+    Uses <mark> three.js</mark>, <mark>a bit of python</mark>, and <mark> interactive design </mark>.  It's main use is to explore associated topics and study chronolgical conceptual change by examining individual peoples profiles and breath of contributions. 
 
-    It's main use is to explore associated topics and understand evolution of idea within the context of the humans who put them forward. The original focus was history of science and history of philosophy.
+    The original focus was in history of science and history of philosophy. See an example of theories of dualism <link> here </link>.
 
-- name: World Human Society
-  link: github.com/sventers
-  github: worldhumansociety.com
+- name: world human society
+  link: worldhumansociety.com
+  github: sventers/worldhumansociety
   quote: >
-    Seach tool for the next finding place to stay during long time traveling.
+    Interactive Seach Tool for finding the next place to stay while long time traveling.
   description: |
-    During constant traveling the last two years, I realized the need for a better way to search for where to stay.  If you stay at the right places, the backpacking community has wonderful tips on what to do.
+    During near-constant travelling for last two years, I realized it might be possible to automate certain search patterns for beds while also learning a bit about different types of recommendation systems. The best places you can stay share certain
 
     Implemented machine learning algorithm to sort hostels by similarity, and users sort by inputting their favorite hostels. Feedback from user searches goes into lodging similarity matrix. Searches is based on ranking within a subset of geographically available travel options tomorrow.
