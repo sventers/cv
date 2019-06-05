@@ -1,12 +1,36 @@
 - company: United States Air Force
-  link: airforce.com
-  job_title: Fighter Aircraft Integrated Avionics Journeyman
+  #link: airforce.com
+  job_title: Fighter Aircraft Integrated Avionics Craftsman
   dates: May 2012 - Jun 2017
   quote: >
-   Ensured misson capability of electonic control systems in F-16 fighter jet fleets valued at 980 million.
+   Ensured misson capability of electonic control systems in F-16 C/D fighter squadrons valued at 980 million.
   description: | # this will include new lines to allow paragraphs
-    Practiced perventative and responsive maintence across a broad range of integrated avionics systems. Participated in multishop teams to fault isolate and repair discrepancies. Ensured capabilities of precision lethal strike response. Continued personal and team members education in areas like proper paperwork proceadures and the importance of doing a job correctly the first time.
+    Repaired and maintained communications, flight controls, navigation, fire controls, fuel level sensing, radar, and defensive avionic systems.
+    - Rank at seperation E-5 Staff Sergeant
+    - Stationed in Arizona, South Korea, and Italy
+    - Earned an Associates Degree in Integrated Avionics from the CC of the Air Force
+    - Honorable Discharge, elected not to reenlist after completion of my first 4+1 year contract
 
+
+
+
+
+# Practiced preventative and responsive maintence across a broad range of integrated avionics systems. 
+# Participated in multishop teams to fault isolate and repair discrepancies. 
+# Ensured capabilities of precision lethal strike response. 
+# Continued personal and team members education in areas like proper paperwork proceadures and the importance of doing a job correctly the first time.
+
+
+
+
+# - company: List of semifamiliar frameworks
+#   link: herefornow
+#   job_title: youshouldbemorespecializedwhenstarting
+#   date: infinite
+#   quote: >
+#     these are techs and 1-10 familiarity ratings
+#   description: |
+ 
 
 # - company: WEGL 91.1 FM
 #   link: weglfm.com

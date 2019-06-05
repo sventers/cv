@@ -1,19 +1,45 @@
-- name: waterdrops
-  link: github.com/sventers/waterdrops
-  github: sventers/waterdrops
+# - name: waterdrops
+#   link: github.com/sventers/waterdrops
+#   github: sventers/waterdrops
+#   quote: >
+#     A set of visualization tools for exploring semantic similarity across wikipedia articles
+#   description: | # this will include new lines to allow paragraphs
+#     Uses <mark> three.js</mark>, <mark>a bit of python</mark>, and <mark> interactive design </mark>.  It's main use is to explore associated topics and study chronolgical conceptual change by examining individual peoples profiles and breath of contributions. 
+
+#     The original focus was in history of science and history of philosophy. See an example of theories of dualism <link> here </link>.
+
+- name: World Human Society
+  link: www.worldhumansociety.com
+  #github: sventers/
   quote: >
-    A set of visualization tools for exploring semantic similarity across wikipedia articles
-  description: | # this will include new lines to allow paragraphs
-    Uses <mark> three.js</mark>, <mark>a bit of python</mark>, and <mark> interactive design </mark>.  It's main use is to explore associated topics and study chronolgical conceptual change by examining individual peoples profiles and breath of contributions. 
+    BROKEN IN DEV AT THE MOMENT
+    web app recommender system for finding accomodation for travellers based on social fit at nearby hostels
+  description: |    
+    During near-constant travelling for last two years, I realized you could combine search patterns from multiple sources for places to stay.
 
-    The original focus was in history of science and history of philosophy. See an example of theories of dualism <link> here </link>.
+    The core of this project is a variety of datasets gathered and munged from apis and scraping
 
-- name: world human society
-  link: worldhumansociety.com
-  github: sventers/worldhumansociety
-  quote: >
-    Interactive Seach Tool for finding the next place to stay while long time traveling.
-  description: |
-    During near-constant travelling for last two years, I realized it might be possible to automate certain search patterns for beds while also learning a bit about different types of recommendation systems. The best places you can stay share certain
+    #### ***python + keras + react + flask + graphql + psql + heroku + docker***
 
-    Implemented machine learning algorithm to sort hostels by similarity, and users sort by inputting their favorite hostels. Feedback from user searches goes into lodging similarity matrix. Searches is based on ranking within a subset of geographically available travel options tomorrow.
+
+
+# - name: hello_EMOVO
+#   github: sventers.github.com/hello_EMOVO
+#   quote: >
+#     Compares FFTs of songs to voice actor dataset of emotions to guess song emotional state
+#   #description: |
+
+
+# - name: sundays.page
+#   github: sventers.github.com/sundays
+#   quote: >
+#     Checks for quality of text in the current webpage
+
+
+# - name: World Weather Averages
+#   link: worldweatheraverages.com
+#   github: sventers.github.com/worldweather
+#   quote: >
+#     Shows temperature average and hours of sun on world map with monthly slider
+#   description: |
+#     #### kepler.gl + webgl + react + psql

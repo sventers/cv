@@ -3,10 +3,10 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Sam V
-title: A bit of this and that
-email: did a (@) gmail .com
-website: www.github.com/sventers/cv
+name: Samuel Venters
+title: Product Person
+email: sam v {dot} yes (at) gmail {dot} com
+website: sventers.github.io
 
 # Social links
 twitter_username: sam59490893
@@ -24,11 +24,14 @@ instagram_username: samv_sammy
 # about_title: About Me
 about_profile_image: images/IMG_20180904_181534-01.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Sam. At the moment, I'm somewhere in South America alternating travelling and working on two personal projects. I'm interested in how concepts change over time, how persons build unique perceptive frameworks of the world by categorization, and methods for resolving information gluttony.
+  Hi, I'm Sam. At the moment, I'm headed south in South America,
+  slowly so as not to make it to Patagonia before summer (December 2019).
+  On the way, I'm developing and testing a recommender system
+  for finding accomodation for travellers based on social fit at the hostel.
 
-  At the moment, I'm looking for a junior role in quantiative social research projects, and my top job criteria is good mentorship/leadership. Feel free to say hello over email.
+  Tambien, estoy aprendiendo Espanol y algo surf
+  
 
-  *Some of the information on this page is prospective*
 # Projects Section 
 # projects_title: Projects
 
@@ -41,7 +44,12 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  I enjoy music, culture, sports, and life stories
+  I'm interested in
+  - visualizing change over time for {meaning of concepts, evolution of living things, history of science, etc} 
+  - how to create perceptive frameworks and how they create categories from a totality of perception, 
+  - and how to map high dimensional information into meaningful domains.
+
+  Visited 40+ countries, lived in 3, fluent in 1.5 languages, and am forever learning
 
 # Footer
 footer_show_references: false

@@ -1,7 +1,24 @@
-- name: Community College of the Air Force
-  dates: 2016 - 2017
-  qualification: Associates in Applied Science of Integrated Avionics
+# - name: CC of the Air Force
+#   dates: 2016 - 2017
+#   qualification: Associates in Applied Science of Integrated Avionics
+#   # quote: > |
+#   description: | # this will include new lines to allow paragraphs
+#     I earned an Associates Degree while serving in the Air Force directly related to my work maintaining the control systems in F-16s.
+
+- name: Auburn University
+  dates: Aug 2007 - Dec 2011
+  qualification: 107 credits towards B.S. in Computer Engineering
   quote: >
-    Continued profession education while employed by the United States Air Force
-  description: | # this will include new lines to allow paragraphs
-    Certification of skill level of maintenence capabilities equivalent to Air Force Specialty code 2A354C
+     regular wanderer in the 4 million volume library, part the hybrid solar car team, chief engineer at the WEGL 91.1 student radio station, and a bit too much of an idealist then
+  description: |
+    As a senior, I dropped out and enlisted in the Air Force.
+    At the time, I was a bit unreasonably scared I would end up building vending machines and microwaves the rest of my life.
+
+    I thought that the inter world war period and it's stress had formed the creators of many of our current systems and numerous artists eg 
+    - Shannon and Von Neuman in computational theory
+    - developments in atomic physics
+    - Keynes and modern economic theory
+    - Wittgenstein and linguistic philosophy
+    
+    and thought the military would grow my perspective on life.
+    
