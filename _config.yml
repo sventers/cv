@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Samuel Venters
-title: Product Person
+title: Data Engineer
 email: sam v {dot} yes (at) gmail {dot} com
 website: sventers.github.io
 
@@ -24,13 +24,22 @@ instagram_username: samv_sammy
 # about_title: About Me
 about_profile_image: images/IMG_20180904_181534-01.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Sam. At the moment, I'm headed south in South America,
-  slowly so as not to make it to Patagonia before summer (December 2019).
-  On the way, I'm developing and testing a recommender system
-  for finding accomodation for travellers based on social fit at the hostel.
+  Hi, I'm Sam. I have traveled full time since April 2017.
+  In route, I constantly live the problem of search for
+  lodging, food, and things to do. Finding the good things
+  in life is half intention and half happenstance.
+  I make maps to explore the edges of the backpacker's frontier spirit and 
+  emotional response to new and old things in life.
 
-  Tambien, estoy aprendiendo Espanol y algo surf
   
+
+
+  Personally also I am searching for a positon at a small to medium business 
+  - that incorporates nlp
+  - where the fundamental problem is search related
+  - where there is someone able and willing to mentor
+  
+  Reach me at my email about anything
 
 # Projects Section 
 # projects_title: Projects
@@ -42,14 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  I'm interested in
-  - visualizing change over time for {meaning of concepts, evolution of living things, history of science, etc} 
-  - how to create perceptive frameworks and how they create categories from a totality of perception, 
-  - and how to map high dimensional information into meaningful domains.
-
-  Visited 40+ countries, lived in 3, fluent in 1.5 languages, and am forever learning
+# more_title: 
 
 # Footer
 footer_show_references: false

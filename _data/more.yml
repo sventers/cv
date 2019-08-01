@@ -1,0 +1,35 @@
+
+
+- name: Personal Interests
+  # link: www.worldhumansociety.com
+  # github: sventers/
+  countries: 45
+  lived: 3
+  quote: >
+        I'm interested in finding and describing domains to map complex problems
+
+  description: |    
+    conceptual meaning
+      - space and time
+      - process intentionality
+      - specificity of interaction with other concepts
+
+    evolution of living systems
+      - ecosystem instantiation
+      - rate of change
+      - orientation of growth 
+
+    historical progress in science
+      - political and time period ethos
+      - ease of commincation with other scientists
+      - life profiles of scientists scraped from wikipedia
+      
+    emotional response to ambience of sound and light
+      - times of day, angle of sun, type of artificial light source
+      - sounds of traffic, nature, crowds, mechanical things
+      - which language, if listeners understands it, and relationship of language to listener (third party sapir-whorf)
+      - music genre, tempo, level of chaos, new or heard before
+
+    Visited 40+ countries, lived in 3
+
+  

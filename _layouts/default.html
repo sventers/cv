@@ -24,7 +24,9 @@
                 {%- include education.html -%}
             {%- endif -%}
 
-            {%- include more.html -%}
+            {%- if site.data.more.size > 0 -%}
+                {%- include more.html -%}
+            {%- endif -%}
 
         </div>
     </main>
