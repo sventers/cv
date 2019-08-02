@@ -12,14 +12,12 @@
   link: www.worldhumansociety.com
   #github: sventers/
   quote: >
-    BROKEN IN DEV AT THE MOMENT
-    web app recommender system for finding accomodation for travellers based on social fit at nearby hostels
+    This map shows where hostels are located in the world, with brighter yellow being higher rated.
   description: |    
-    During near-constant travelling for last two years, I realized you could combine search patterns from multiple sources for places to stay.
-
-    The core of this project is a variety of datasets gathered and munged from apis and scraping
-
-    #### ***python + keras + react + flask + graphql + psql + heroku + docker***
+    I collected a dataset of 22k hostels and was trying to create a recommendation system based on the compatibility with the other backpackers in the hostel at the time you will visit using
+      - python, postgresql, keras, react, webgl with keplergl
+    
+    However I need more recommendations data to make a personalized system at this level, so in the meantime I made a map that shows backpacker hotspots
 
 
 
